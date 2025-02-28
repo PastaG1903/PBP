@@ -1,0 +1,19 @@
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250224-13888-outkcp sitelibdir\=./.gem.20250224-13888-outkcp clean
+
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250224-13888-outkcp sitelibdir\=./.gem.20250224-13888-outkcp
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250224-13888-outkcp sitelibdir\=./.gem.20250224-13888-outkcp install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250224-13888-outkcp
+
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250224-13888-outkcp sitelibdir\=./.gem.20250224-13888-outkcp clean

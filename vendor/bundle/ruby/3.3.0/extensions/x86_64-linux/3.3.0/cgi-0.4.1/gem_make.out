@@ -1,0 +1,18 @@
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250224-15413-hv7792 sitelibdir\=./.gem.20250224-15413-hv7792 clean
+
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250224-15413-hv7792 sitelibdir\=./.gem.20250224-15413-hv7792
+compiling escape.c
+linking shared-object cgi/escape.so
+
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250224-15413-hv7792 sitelibdir\=./.gem.20250224-15413-hv7792 install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250224-15413-hv7792/cgi
+
+current directory: /home/mavap/OneDrive_Personal/The PastaGuy's Files/PBP/mediator/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250224-15413-hv7792 sitelibdir\=./.gem.20250224-15413-hv7792 clean
