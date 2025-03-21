@@ -18,7 +18,7 @@ cover: "/assets/images/full_vaps.png"
 
 name: 'Shay von Amyprost'
 author: 'Shay von Amyprost'
-#author_image: "/assets/images/author.jpg"
+author_image: 
 
 paginate:	5
 
@@ -33,7 +33,7 @@ twitter_handle: '@dirkfabisch'
 #google_analytics: UA-XXXXX-X
 
 # social icons and sharing options
-# social:
+social:
 #   - icon:	twitter
 #     url:	https://twitter.com/dirkfabisch
 #     desc: Follow me on twitter
